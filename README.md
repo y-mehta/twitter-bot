@@ -26,3 +26,6 @@ Now, You are all set. Fire up your terminal and execute following command :
   3. Follow users using a hashtag 
   4. Like all posts using a hashtag 
 
+## Disclaimer
+I hold no liability for what you do with this script or what happens to you by using this script. Abusing this script can get you banned from Twitter, so make sure to read up on proper usage of the Twitter API.
+
