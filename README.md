@@ -1,6 +1,7 @@
 # twitter-bot
 Twitter-bot is a program that integrates with the Twitter platform, automatically posting, retweeting, liking, or following other users. Twitter-bot can prove to be useful through providing interesting information or updates, and they can also be fun or humorous.
 
+[![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 ## Dependencies 
 
 You will need to install Open Source Twitter API - Tweepy first :
@@ -28,4 +29,5 @@ Now, You are all set. Fire up your terminal and execute following command :
 
 ## Disclaimer
 I hold no liability for what you do with this script or what happens to you by using this script. Abusing this script can get you banned from Twitter, so make sure to read up on proper usage of the Twitter API.
+
 
